@@ -1,6 +1,6 @@
 require "./spec_helper"
 
-describe ExampleFunction do
+describe "example-function" do
   # TODO: Write tests
 
   it "works" do
