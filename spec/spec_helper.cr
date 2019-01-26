@@ -1,2 +1,2 @@
 require "spec"
-require "../src/cf-kemal"
+require "../main.cr"

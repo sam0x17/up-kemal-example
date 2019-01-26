@@ -1,6 +1,6 @@
 require "./spec_helper"
 
-describe Cf::Kemal do
+describe ExampleFunction do
   # TODO: Write tests
 
   it "works" do

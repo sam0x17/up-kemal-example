@@ -1,12 +1,12 @@
-name: cf-kemal
+name: example-function
 version: 0.1.0
 
 authors:
   - Sam Johnson <sam@durosoft.com>
 
 targets:
-  cf-kemal:
-    main: src/cf-kemal.cr
+  example-function:
+    main: main.cr
 
 crystal: 0.27.0
 
